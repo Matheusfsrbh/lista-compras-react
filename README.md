@@ -1,0 +1,1 @@
+Primeiro projeto usando React concluído. as principais dificuldades foram estruturar tudo, como foi um projeto todo feito à mão, eu por algumas vezes inverti a ordem de alguns comandos. Logo na sequência, após algumas tentativas e erros foi possível fazer rodar sem problemas de bugs. 
