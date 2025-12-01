@@ -1,28 +1,50 @@
-Primeiro projeto usando React concluído. as principais dificuldades foram estruturar tudo, como foi um projeto todo feito à mão, eu por algumas vezes inverti a ordem de alguns comandos. Logo na sequência, após algumas tentativas e erros foi possível fazer rodar sem problemas de bugs. 
-# Nome-do-Projeto (ex: Lista de Compras React)
+# Lista de Compras (React)
 
-> Aplicativo front-end construído em React para gerenciar lista de compras (CRUD + gerenciamento de itens).
+Primeiro projeto usando React concluído.  
+As principais dificuldades foram estruturar tudo — como foi um projeto todo feito à mão, eu inverti a ordem de alguns comandos em certos momentos. Após várias tentativas e erros, consegui fazer tudo rodar sem bugs.
 
-## 🎯 Visão geral  
-Uma aplicação simples e funcional que permite ao usuário adicionar, editar, remover e marcar itens de compras.  
-Ideal para praticar conceitos de estado, componentes, hooks e manipulação de listas com React.
+---
 
-## 🛠️ Tecnologias usadas  
+## 📋 Descrição
+
+Aplicação em **React** para gerenciar uma lista de compras com operações de adicionar, remover, editar e marcar itens como concluídos.  
+O objetivo do projeto é demonstrar conhecimentos em componentização, gerenciamento de estado e boas práticas de desenvolvimento front-end.
+
+---
+
+## 🛠 Tecnologias Utilizadas
+
 - React.js  
 - JavaScript (ES6+)  
-- HTML5 / CSS3  
-- [outras que usou, ex: Vite / CSS Modules / Tailwind, etc.]
+- HTML5  
+- CSS3  
+- Vite  
+- Git e GitHub  
 
-## ✅ Funcionalidades  
-- Adicionar item à lista  
-- Editar item existente  
-- Deletar item  
-- Marcar item como comprado / pendente  
-- Interface responsiva (mobile + desktop)
+---
 
-## 🚀 Como usar / rodar localmente  
+## ✅ Funcionalidades
+
+- Adicionar novos itens à lista  
+- Marcar itens como comprados  
+- Editar itens existentes  
+- Remover itens  
+- Persistência dos dados utilizando **localStorage**  
+- Interface responsiva (desktop e mobile)  
+
+---
+
+## 🚀 Como executar o projeto
+
 ```bash
-git clone https://github.com/Matheusfsrbh/NOME-DO-REPO.git  
-cd NOME-DO-REPO  
-npm install  
-npm run dev  
+# Clonar repositório
+git clone https://github.com/Matheusfsrbh/lista-compras-react.git
+
+# Acessar a pasta
+cd lista-compras-react
+
+# Instalar dependências
+npm install
+
+# Iniciar o projeto
+npm run dev
