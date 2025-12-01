@@ -6,14 +6,12 @@ As principais dificuldades foram estruturar tudo — como foi um projeto todo fe
 ---
 
 ## 📋 Descrição
-
 Aplicação em **React** para gerenciar uma lista de compras com operações de adicionar, remover, editar e marcar itens como concluídos.  
 O objetivo do projeto é demonstrar conhecimentos em componentização, gerenciamento de estado e boas práticas de desenvolvimento front-end.
 
 ---
 
 ## 🛠 Tecnologias Utilizadas
-
 - React.js  
 - JavaScript (ES6+)  
 - HTML5  
@@ -24,12 +22,11 @@ O objetivo do projeto é demonstrar conhecimentos em componentização, gerencia
 ---
 
 ## ✅ Funcionalidades
-
 - Adicionar novos itens à lista  
 - Marcar itens como comprados  
 - Editar itens existentes  
 - Remover itens  
-- Persistência dos dados utilizando **localStorage**  
+- Persistência de dados utilizando **localStorage**  
 - Interface responsiva (desktop e mobile)  
 
 ---
