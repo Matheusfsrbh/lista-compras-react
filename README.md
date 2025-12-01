@@ -31,6 +31,23 @@ O objetivo do projeto é demonstrar conhecimentos em componentização, gerencia
 
 ---
 
+📁 Estrutura do Projeto
+src/
+ ├─ components/
+ ├─ pages/
+ ├─ styles/
+ ├─ App.jsx
+ └─ main.jsx
+
+👤 Autor
+
+Matheus Felipe dos Santos Ribeiro
+GitHub: https://github.com/Matheusfsrbh
+
+LinkedIn: https://www.linkedin.com/in/matheus-felipe-dos-santos-ribeiro/
+
+---
+
 ## 🚀 Como executar o projeto
 
 ```bash
@@ -46,17 +63,3 @@ npm install
 # Iniciar o projeto
 npm run dev
 
-📁 Estrutura do Projeto
-src/
- ├─ components/
- ├─ pages/
- ├─ styles/
- ├─ App.jsx
- └─ main.jsx
-
-👤 Autor
-
-Matheus Felipe dos Santos Ribeiro
-GitHub: https://github.com/Matheusfsrbh
-
-LinkedIn: https://www.linkedin.com/in/matheus-felipe-dos-santos-ribeiro/
